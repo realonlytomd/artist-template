@@ -1,2 +1,2 @@
 # simple-robot
-Mark's robot site with older tech.
+This is a clone of simple-robot. Now called artist-template, will first be turned into Gregg's, I guess?
